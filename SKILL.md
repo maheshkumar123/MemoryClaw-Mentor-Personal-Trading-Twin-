@@ -67,7 +67,7 @@ env:
    - Enable: “Spot & Margin Trading” + “Enable Reading”
    - Copy API Key & Secret → paste in env above
    - Start with TESTNET=true (testnet.binance.vision)
-2. Your Square key is already added (fb1330b92c6b4db9b3abe2fc5e009e1f)
+2. Your Square key is already added //added your squre api.
 
 ## Safety (Built-in Hedge-Fund Rules)
 - Never executes without your “YES”
