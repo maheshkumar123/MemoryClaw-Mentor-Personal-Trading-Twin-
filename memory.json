@@ -1,0 +1,23 @@
+{
+    "patterns": {
+        "win_rate": 0.62,
+        "favorite_tokens": [
+            "SOL",
+            "BTC",
+            "PEPE"
+        ],
+        "bad_habits": [],
+        "total_trades": 42,
+        "top_traded": "SOLUSDT",
+        "volume_by_symbol": {
+            "SOLUSDT": 15000,
+            "BTCUSDT": 8000,
+            "PEPEUSDT": 2000
+        }
+    },
+    "user_profile": {
+        "experience": "intermediate",
+        "risk_tolerance": "conservative"
+    },
+    "last_analysis": null
+}
